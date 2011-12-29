@@ -1,7 +1,7 @@
 <?php
 /**
- * @author          ATAFOTO.studio (Jacques BODIN-HULLIN) <jacques@atafotostudio.com>
- * @copyright       (C) ATAFOTO.studio (Jacques BODIN-HULLIN)
+ * @author          Jacques BODIN-HULLIN <jacques@bodin-hullin.net>
+ * @copyright       (C) Jacques BODIN-HULLIN
  * @license         Tous droits réservés
  * @since           2010-09-20
  */
