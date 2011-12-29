@@ -22,7 +22,7 @@ function white()    { return "\033[00m"; }
 function startMessage()
 {
     $intro = <<<INTRO
-Installation d'une application Core - ATAFOTO.studio - (c) 2010
+Installation d'une application Core - jacquesbh - (c) 2010
 
 INTRO;
     return green() . $intro . white();
